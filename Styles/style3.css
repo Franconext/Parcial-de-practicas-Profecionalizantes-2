@@ -1,0 +1,75 @@
+.encabezado{
+    text-align: center;
+    background-color:#2C3E50;
+    color: #ECF0F1;
+    padding: 10px 20px;
+    text-align: center; 
+}
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo {
+    width: 50px; 
+    height: auto;
+    margin-right: 10px; 
+}
+.encabezadoh1{
+    margin: 0;
+    font-size: 4em; 
+}
+.container-fluid{
+    max-width: 100%;
+    width: auto;
+}
+body{
+    background-color: #F39C12;
+}
+img{
+    width: 400px; 
+    height:550px;
+}
+.piedepag{
+    text-align: center;
+    background-color:#34495E;
+    color: #ECF0F1;
+    padding-top: 1rem; 
+    padding-bottom: 1rem;  
+}
+.info {
+    background-color: #ECF0F1; 
+    padding: 1.5rem; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+    margin: 1rem 0;
+    text-align: center;
+}
+.acomodarimg img{
+    height: 45px;
+    width: 45px;
+}
+.acomodardiv{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+}
+.espaciardiv div{
+    margin-bottom: 1rem;
+    justify-content: center;
+
+}
+.checkbox{
+    margin-right: 1rem
+}
+
+
+.Acomodar-Items-Interiores div{
+    display: flex;
+    flex-direction: column;
+}
+
+#Mensaje{
+    display: flex;
+    flex-direction: column;
+}

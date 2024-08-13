@@ -1,0 +1,52 @@
+.carta{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.carta > div{
+    flex: 1 1 200px;
+}
+.fotos{
+    width: 150px ;
+    height: 150px;
+    margin-top: 1rem;
+}
+.piedepag{
+    text-align: center;
+    background-color:#34495E;
+    color: #ECF0F1;
+    padding-top: 1rem; 
+    padding-bottom: 1rem;  
+}
+.encabezado{
+    text-align: center;
+    background-color:#2C3E50;
+    color: #ECF0F1;
+    padding: 10px 20px;
+    text-align: center; 
+}
+.logo-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.logo {
+    width: 50px; 
+    height: auto;
+    margin-right: 10px; 
+}
+.encabezadoh1{
+    margin: 0;
+    font-size: 4em; 
+}
+.container-fluid{
+    max-width: 100%;
+    width: auto;
+}
+body{
+    background-color: #F39C12;
+}
+.acomodarimg img{
+    height: 45px;
+    width: 45px;
+}
